@@ -52,7 +52,7 @@ Standaardisatie wordt door enkele organisaties in het MKB (adviesbureau/consulti
 
 ## 5.3 Het ontstane beeld na analyse van de interviews met betrekking tot de betrokkenheid
 
-1.  Strategische voordelen en vroegtijdige inzichten blijken drijfveren voor betrokkenheid te zijn. 
+1.  Strategische voordelen en vroegtijdige inzichten blijken drijfveren voor betrokkenheid te zijn.
 
 > Actieve deelname levert organisaties strategische voordelen op zoals het beïnvloeden van internationale standaarden, het vergroten van het marktaandeel, het verbeteren van interoperabiliteit en het waarborgen van (product)veiligheid. Bij passieve deelname krijgen organisaties vroegtijdig inzicht in nieuwe ontwikkelingen, waardoor zij snel kunnen anticiperen.  Tenslotte draagt deelname vaak bij aan een collectief of sectoraal belang. 
 >

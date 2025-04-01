@@ -1,10 +1,8 @@
 
 # Methode van onderzoek
 
-Voor de kwantitatieve analyse is een onderzoeksmethode gehanteerd die hier verder globaal wordt beschreven.
-
-De gedetailleerde onderzoeksmethode naar de Nederlandse participatie in Europese- en internationale standaardisatie, is beschreven in een separaat document.
-
+Voor de kwantitatieve analyse is een onderzoeksmethode gehanteerd die hier verder globaal wordt beschreven.  
+De gedetailleerde onderzoeksmethode naar de Nederlandse participatie in Europese- en internationale standaardisatie, is beschreven in een separaat document.  
 Deze bevat:
 
 - Een verdere uitwerking van de herkomst van de gegevens van participaties.  
@@ -25,8 +23,7 @@ Er zijn **drie representatievormen voor Nederlandse vertegenwoordiging**:
 
 3.  **Organisatievertegenwoordiging**: Een Nederlandse belanghebbende is lid en vaardigt personen af.
 
-De beschikbaarheid van gegevens varieerde per SDO. Voor een overzicht hiervan, zie bijlage A. SDO’s in scope van het onderzoek tabel 13.
-
+De beschikbaarheid van gegevens varieerde per SDO. Voor een overzicht hiervan, zie bijlage A. SDO’s in scope van het onderzoek tabel 13.  
 Om de participatie van alle SDO’s te kunnen vergelijken is een uniform datamodel opgesteld.
 
 Het Nederlands belang is gekoppeld aan de betreffende organisatie namens welke een persoon participeert. Hiervoor is een ledenlijst van NEN gebruikt, uitgebreid met namen van Nederlandse bedrijven die in de dataset voorkomen. Er zijn twee modellen mogelijk om het Nederlands belang te bepalen:
@@ -40,8 +37,7 @@ De tweede route introduceert een complexiteit wanneer sprake is van multinationa
 
 ## Interviews
 
-Voor dit deel van het onderzoek zijn connecties gelegd met 34 organisaties via NEN, leden van Forum Standaardisatie en het eigen netwerk van ICTU. Met de geïnterviewden is afgesproken dat ze anoniem blijven. Van de geïnterviewden zijn er vier Engelstalig waaronder twee van de EC. De overige personen zijn Nederlandstalig. Ze ontvingen vooraf de te bespreken onderwerpen.
-
+Voor dit deel van het onderzoek zijn connecties gelegd met 34 organisaties via NEN, leden van Forum Standaardisatie en het eigen netwerk van ICTU. Met de geïnterviewden is afgesproken dat ze anoniem blijven. Van de geïnterviewden zijn er vier Engelstalig waaronder twee van de EC. De overige personen zijn Nederlandstalig. Ze ontvingen vooraf de te bespreken onderwerpen.  
 De interviews, duurden gemiddeld 60 minuten en hebben tussen mei en december 2024 plaatsgevonden. Ze zijn online afgenomen en automatisch getranscribeerd. Vervolgens zijn de gesprekssamenvattingen geautomatiseerd gegenereerd en hebben de onderzoekers handmatig per samenvatting tekstdelen gecategoriseerd op basis van de onderwerpen die gerelateerd zijn aan onderzoeksvragen 2 en 3.
 
 Tabel 1 toont het overzicht van het aantal geïnterviewde personen per SDO en per organisatiecategorie. De SDO waaraan de geïnterviewde het meest bijdraagt, is opgenomen.

@@ -21,35 +21,27 @@ Deze vragen worden beantwoord op basis van onderzoek bij de volgende 12 organisa
 
 - Zes standaardisatie-organisaties, consortia en samenwerkingsverband: IETF, IEEE-SA, W3C, OASIS, 3GPP en GS1.
 
-Om deze vragen te beantwoorden is empirisch onderzoek uitgevoerd en zijn de resultaten hiervan gerelateerd aan actuele beleidsstukken, in het bijzonder: 1) Kamerstuk 36 410 XIII met betrekking tot de bevindingen uit de evaluatie van het Nederlands Normalisatie Instituut en 2) De Nationale Normalisatieagenda (versie december 2024, interdepartementaal werkdocument van het ministerie van Economische Zaken).
-
+Om deze vragen te beantwoorden is empirisch onderzoek uitgevoerd en zijn de resultaten hiervan gerelateerd aan actuele beleidsstukken, in het bijzonder: 1) Kamerstuk 36 410 XIII met betrekking tot de bevindingen uit de evaluatie van het Nederlands Normalisatie Instituut en 2) De Nationale Normalisatieagenda (versie december 2024, interdepartementaal werkdocument van het ministerie van Economische Zaken).  
 Het voornemen is om het onderzoek elke drie tot vijf jaar te herhalen.
 
 ## Scope en overwegingen
 
-Het onderzoek betreft zowel een kwalitatief als een kwantitatief deel.
-
-Voor het kwalitatieve deel zijn in totaal 34 organisaties geïnterviewd. De keuze voor deze organisaties is primair gebaseerd op het belang van de ICT-standaard die wordt ontwikkeld voor Nederland (voor zowel de overheid en het bedrijfsleven). Verder is er gezocht naar een goede balans tussen 1)de verschillende Standards Development Organisations (SDO’s), 2) de grootte en het type van de organisatie en 3) het bedrijfsleven versus (semi-)overheid. Op verzoek van Bureau Forum Standaardisatie zijn gedurende dit onderzoek ook vier organisaties gelieerd aan de Europese Commissie (EC) in de scope van het onderzoek opgenomen (ENISA, 2x DG Connect, DG Just) en Global Standards One (GS1) als een van de SDO’s.
-
+Het onderzoek betreft zowel een kwalitatief als een kwantitatief deel.  
+Voor het kwalitatieve deel zijn in totaal 34 organisaties geïnterviewd. De keuze voor deze organisaties is primair gebaseerd op het belang van de ICT-standaard die wordt ontwikkeld voor Nederland (voor zowel de overheid en het bedrijfsleven). Verder is er gezocht naar een goede balans tussen 1)de verschillende Standards Development Organisations (SDO’s), 2) de grootte en het type van de organisatie en 3) het bedrijfsleven versus (semi-)overheid. Op verzoek van Bureau Forum Standaardisatie zijn gedurende dit onderzoek ook vier organisaties gelieerd aan de Europese Commissie (EC) in de scope van het onderzoek opgenomen (ENISA, 2x DG Connect, DG Just) en Global Standards One (GS1) als een van de SDO’s.  
 GS1 is niet meegenomen in de kwantitatieve analyse.
 
 Het aantal geïnterviewden per sector in de scope van het onderzoek:
 
-- Distributie en Logistiek: 1
-
-- Energie en petrochemie: 2
-
-- Financiële dienstverlening: 4
-
-- Ingenieursdiensten en Consultancy: 3
-
-- Overheid (EU): 4
-
-- Overheid en Publieke Sector (NL): 9
-
-- Retail: 1
-
-- Technologie en IT-dienstverlening: 10
+| Sector                            | Aantal geïnterviewden |
+|-----------------------------------|-----------------------|
+| Distributie en Logistiek          | 1                     |
+| Energie en petrochemie            | 2                     |
+| Financiële dienstverlening        | 4                     |
+| Ingenieursdiensten en Consultancy | 3                     |
+| Overheid (EU)                     | 4                     |
+| Overheid en Publieke Sector (NL)  | 9                     |
+| Retail                            | 1                     |
+| Technologie en IT-dienstverlening | 10                    |
 
 Het onderzoek beperkt zich tot het bepalen van waar en hoe Nederland is vertegenwoordigd in Europese en internationale standaardisatie-organisaties en activiteiten. Het onderzoek is niet gericht op individuele ICT-standaarden of technologieën, maar op het niveau van organisaties, commissies of werkgroepen.
 

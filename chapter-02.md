@@ -6,15 +6,14 @@ De digitalisering van onze samenleving groeit in een steeds sneller tempo en sta
 Dit onderzoek is voor beleidsmakers van belang omdat het inzicht biedt in de mate van betrokkenheid van Nederland bij internationale standaardisatieprocessen, in de effectiviteit van deze betrokkenheid en in de mogelijke verbeteringen. Door goed te begrijpen waar en waarom Nederland wel en niet actief is, kunnen strategische beslissingen worden genomen om de positie van Nederland in internationale standaardisatie te versterken.  
 Ook kan de overheid met deze inzichten gericht actie ondernemen om de participatie te bevorderen van Nederlandse organisaties in strategisch belangrijke standaardisatietrajecten.
 
-## Aanleiding onderzoek 
+## Aanleiding onderzoek
 
 Op Europees niveau groeit de aandacht voor de noodzaak van een standaardisatiestrategie en de governance van standaardisatie-organisaties, getuige ook het recent opgerichte High Level Forum on European Standardisation en de publicatie van ‘[An EU Strategy on Standardisation’](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/13099-Standardisation-strategy_en) door de Europese Commissie in 2022.
 
 Gezien het groeiende belang van standaardisatie in waardengedreven digitalisering en digitale soevereiniteit, wil Forum Standaardisatie inzicht verkrijgen in de participatie van Nederlandse publieke- en private organisaties in Europese standaardisatie-organisaties. De achterliggende vraag is: heeft Nederland voldoende vertegenwoordiging in standaardisatie-organisaties en -activiteiten van strategisch belang? Kan de overheid hierin een stimulerende rol spelen?
 
-> Nota bene: ‘Standaardisatie’ verwijst naar het proces van het ontwikkelen en implementeren van standaarden. Dit kan 1) een formeel ontwikkelproces zijn (zoals bij NEN en ICE), 2) een informeel ontwikkelproces zijn bij industrieconsortia (zoals bij OASIS en W3C) en 3) een intern proces zijn binnen een organisatie. In het Nederlandse taalgebied wordt vaak de term ‘normalisatie’ gebruikt in de context van formele standaarden.
->
-> In dit document wordt de alomvattende term ‘standaardisatie’ gebruikt.
+Nota bene: ‘Standaardisatie’ verwijst naar het proces van het ontwikkelen en implementeren van standaarden. Dit kan 1) een formeel ontwikkelproces zijn (zoals bij NEN en ICE), 2) een informeel ontwikkelproces zijn bij industrieconsortia (zoals bij OASIS en W3C) en 3) een intern proces zijn binnen een organisatie. In het Nederlandse taalgebied wordt vaak de term ‘normalisatie’ gebruikt in de context van formele standaarden.  
+In dit document wordt de alomvattende term ‘standaardisatie’ gebruikt.
 
 ## Het belang van standaardisatie als een strategisch instrument
 

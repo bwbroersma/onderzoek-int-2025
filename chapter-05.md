@@ -43,7 +43,7 @@ Wanneer wordt gesproken van **Nederlandse belanghebbenden,** kan dat verschillen
 
 Voor de aanwijzing van Nederlandse belanghebbenden zijn soortgelijke criteria gehanteerd die NEN gebruikt voor lidmaatschap: indien er sprake is van een Nederlands economisch belang, kan een organisatie die niet primair in Nederland gevestigd is wel deelnemen aan standaardisatie. Zo wordt een brievenbusfirma uitgesloten, maar kan een organisatie met financiële activiteiten in Nederland wel degelijk vanuit Nederlands belang participeren. Participatie wordt gekoppeld aan de organisatie, niet de persoon. Er hoeft dus niet noodzakelijk een deelnemer vanuit Nederland afgevaardigd te worden, zolang de organisatie binnen de categorieën Nederlandse belanghebbenden valt.
 
-Overzicht van beschikbare gegevens
+### Overzicht van beschikbare gegevens
 
 In totaal bevat de dataset van verzamelde data 469.629 individuele deelnames. Fout! Verwijzingsbron niet gevonden. toont het totale aantal participaties, zowel van Nederlandse belanghebbenden als het totale aantal per categorie, in de dataset per SDO-type. Elke participatie representeert één deelname van één persoon. ISO en IEC betreffen alleen Nederlandse participaties, verkregen via NEN. Van CEN-CENELEC hebben wij geen gegevens over participatie.
 
@@ -196,7 +196,7 @@ Binnen de afbakening van dit onderzoek wordt de formele vertegenwoordiging van d
 
 Nederlandse participatie door de tijd is meetbaar qua aanwezigheid bij vergaderingen en qua inbreng van technische contributies bij 3GPP, ETSI, IETF, IEC en ISO. Voor ITU zijn gegevens van technische contributies voor een deel van de werkgroepen beschikbaar, maar geen van die technische contributies is gedaan door een organisatie die ais aangemerkt als Nederlandse belanghebbende. Wel zijn er Nederlandse belanghebbenden lid die niet terugkomen in de onderzoeksgegevens, vermoedelijk omdat het verzamelen van data binnen ITU niet volledig kon worden uitgevoerd.
 
-Aantal individuele Nederlandse deelnames over tijd
+### Aantal individuele Nederlandse deelnames over tijd
 
 **Tabel 4** laat het absolute aantal Nederlandse participaties over tijd zien. Participatie in de vorm van aanwezigheid bij bijeenkomsten van de SDO’s en hun werkgroepen, is over tijd toegenomen, met weliswaar een dip in ETSI en IETF in 2023 en bij IEC in 2020. Bij IETF is de gemeten participatie constant sinds 2020. De afname bij ETSI van 2020 op 2023 is dus niet consistent met de algemene trends in participatie.
 

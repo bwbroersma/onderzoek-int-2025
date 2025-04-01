@@ -80,9 +80,9 @@ Bewustwording en educatie over het belang van standaardisatie zijn essentieel om
 
 > Om Nederlandse belangen te behartigen waar deelname veel meer direct en op eigen titel, (en dus niet vanuit NEN wordt ondersteund) kan een mechanisme worden opgezet. Denk aan lidmaatschapsopties, een nationaal coördinatiemechanisme / platform voor samenwerking en opzet van duidelijke communicatie over niet-formele SDO’s.
 
-### Een schematische vergelijking van de Nationale Normalisatieagenda met de opgehaalde wensen is weergegeven in Tabel .
+### Een schematische vergelijking van de Nationale Normalisatieagenda met de opgehaalde wensen is weergegeven in Tabel 11.
 
-Tabel Op de volgende pagina: Overzicht van wat er op het gebied van standaardisatie in Nederland is ingeregeld, waaraan momenteel invulling wordt gegeven en wat nog extra aandacht behoeft (afkomstig uit de Nationale Normalisatieagenda).
+Tabel 11 Op de volgende pagina: Overzicht van wat er op het gebied van standaardisatie in Nederland is ingeregeld, waaraan momenteel invulling wordt gegeven en wat nog extra aandacht behoeft (afkomstig uit de Nationale Normalisatieagenda).
 
 <table>
 <colgroup>
