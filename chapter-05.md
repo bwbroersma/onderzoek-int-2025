@@ -230,12 +230,11 @@ Respondenten geven aan dat Nederland in mindere mate vanuit de overheid strategi
 
 Hieruit volgt dat Nederland meer thematische focus heeft dan andere landen en daar waar er sprake is van een sterk (economisch) belang, dan ook goed vertegenwoordigd is. Op andere onderwerpen, zoals quantum of energieopslag (batterijen/accu’s) lijkt participatie minder plaats te vinden dan bij andere landen. Geïnterviewden leggen daarbij het verband met het ontbreken van kennis binnen de overheid op deze onderwerpen.
 
-Aantal participerende Nederlandse organisaties over tijd
+### Aantal participerende Nederlandse organisaties over tijd
 
 Naast het absolute aantal **individuele** **deelnames** kan gekeken worden naar het aantal **unieke participerende organisaties** per jaar. In de beschikbare dataset is zichtbaar dat het aantal Nederlandse organisaties dat deelneemt, is toegenomen. Hierbij tellen organisaties die bij meerdere SDO’s participeren, nog steeds als één unieke organisatie.
 
-**Tabel 6** toont het aantal participerende Nederlandse organisaties voor 2019-2024. Kanttekening hierbij: De toename in het aantal unieke participerende organisaties in tijd, kan niet met 100% zekerheid worden vastgesteld. Omdat er sprake is van beperkte gegevens voor 2019 en 2024 lijkt het startpunt waarschijnlijk lager dan het werkelijk is. Daarom is dit vermeld als een ‘vermoedelijke stijging’.
-
+**Tabel 6** toont het aantal participerende Nederlandse organisaties voor 2019-2024. Kanttekening hierbij: De toename in het aantal unieke participerende organisaties in tijd, kan niet met 100% zekerheid worden vastgesteld. Omdat er sprake is van beperkte gegevens voor 2019 en 2024 lijkt het startpunt waarschijnlijk lager dan het werkelijk is. Daarom is dit vermeld als een ‘vermoedelijke stijging’.  
 Concluderend kan gesproken worden van een groeiende participatie in absolute zin, met een vermoedelijke stijging in het aantal Nederlandse belanghebbenden dat deelneemt.
 
 Tabel 6 Aantal participerende organisaties met Nederlands belang. NB: Voor 2019 en 2024 zijn de data beperkt. Deze jaren zijn aangemerkt met een asterisk (\*).
@@ -256,7 +255,7 @@ Interviewrespondenten met een formele rol geven aan dat ze daarmee aanzienlijke 
 
 De kwantitatieve analyse kijkt naar de Nederlandse invulling van formele rollen bij de verschillende SDO’s, op basis van gegevens over de organisaties namens wie de vertegenwoordiger deelneemt.
 
-Formele rollen bij 3GPP, ETSI, IETF en W3C
+### Formele rollen bij 3GPP, ETSI, IETF en W3C
 
 Binnen de vier SDO’s zijn in totaal 7.203 invullingen van formele rollen geobserveerd. Hiervan is in 39 gevallen sprake van een Nederlandse invulling (ca 0,5%). De meest ingenomen rol is de rol van voorzitter, zoals zichtbaar in **Tabel 7**. Dit percentage ligt redelijk in lijn met het percentage deelnames aan vergaderingen. Daarbij moet worden aangetekend dat een deel van de formele rollen door onafhankelijke personen wordt vervuld. Zij vervullen hun rol dan bijvoorbeeld in dienst van de SDO in plaats van een van de leden. Bij het interpreteren van de relatieve aanwezigheid van Nederlandse belanghebbenden moet dus in acht worden genomen dat, wanneer deze groep niet mee zou tellen, het percentage hoger zou liggen. Het was tijdens dit onderzoek echter niet mogelijk om deze aan te wijzen en weg te laten.
 
@@ -284,7 +283,7 @@ Tabel 8 Door Nederlandse vertegenwoordigers vervulde formele rollen per type org
 | Formele vertegenwoordigers van de Nederlandse overheid                                                                                 |      | 2    |      |     |
 | Organisaties van de Nederlandse overheid, waaronder Rijksoverheid, provincies, gemeenten, waterschappen, ZBO’s en overheidsstichtingen | 2    |      |      |     |
 
-Formele rollen IEC
+### Formele rollen IEC
 
 Voor IEC kunnen de formele rollen niet onderscheiden worden van het totaal of per organisatietype. Daarnaast zijn alleen gegevens van Nederlandse participaties beschikbaar, waardoor niet dezelfde vergelijking gemaakt kan worden als bij de andere SDO’s. Wel is het mogelijk om dit over tijd te laten zien, omdat de rol in de beschikbare data gekoppeld is aan aanwezigheid bij een vergadering. **Tabel** **9** laat het aantal vervulde, formele participaties per rol zien. De rollen organisator en voorzitter hebben de grootste aantallen, samen ruim twee derde van het totaal.
 
@@ -304,7 +303,7 @@ Tabel 9 Aantal Nederlandse formele participaties per rol
 
 **Figuur 1**. Aantal door Nederlandse vertegenwoordigers vervulde formele rollen in IEC over tijd
 
-Reflectie op de rol van multinationals
+### Reflectie op de rol van multinationals
 
 In het aantal participaties uitgesplitst naar organisatietype viel al op dat een groot deel van de participaties aangemerkt als Nederlands belang plaatsvond namens Nederlandse vestigingen van buitenlandse organisaties. Hoewel hier binnen die definitie sprake is van een Nederlands belang, kunnen hier ook vraagtekens bij gesteld worden. In gesprekken komt eveneens de rol van multinationals naar voren. Zij hebben meer vermogen om hun belangen na te streven in standaardisatie. Zo is het bijvoorbeeld voor hen lucratief als een eigen patent wordt opgenomen in een standaard of biedt het concurrentievoordeel wanneer de eigen productstandaard wordt opgenomen. Multinationals kunnen dit bijvoorbeeld bereiken door ‘block voting’, waar verschillende multinationals samen stemmen voor gedeelde belangen. Multinationals hebben meer middelen en kunnen daarmee een belangrijke rol spelen binnen standaardisatie, mits de invloed die komt met meer middelen in balans is met de invloed van partijen met minder middelen voor deelname.
 

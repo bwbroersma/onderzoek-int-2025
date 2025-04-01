@@ -1,31 +1,27 @@
 
-# Onderzoeksvraag 2: Wat drijft de betrokkenheid van de verschillende Nederlandse organisaties? 
+# Onderzoeksvraag 2: Wat drijft de betrokkenheid van de verschillende Nederlandse organisaties?
 
 Dit hoofdstuk geeft inzicht in de drijfveren voor deelname aan SDO’s. Waarom hebben partijen hun betrokkenheid vermeerderd of verminderd? Wat verwachten ze in de toekomst te gaan doen? Factoren waarom geïnterviewden gemotiveerd zijn om deel te nemen aan standaardisatie-activiteiten zijn geanalyseerd, zowel vanuit een organisatieperspectief als op basis van persoonlijke motivatie.
 
 ## 5.1 Motivatie voor deelname
 
-Belang voor de organisatie
+### Belang voor de organisatie
 
-Actieve deelname aan standaardisatieprocessen biedt de organisaties strategische voordelen, zoals het beïnvloeden van standaarden voor eigen organisatievoordelen (bijvoorbeeld: het vergroten van het eigen marktaandeel en het tegenhouden van besluiten die niet aansluiten bij eigen producten of diensten), het verbeteren van de implementatie van internationale standaarden en het waarborgen van productveiligheid. Dit leidt tot economische voordelen: efficiëntie, effectiviteit en concurrentievoordelen.
-
-Een geïnterviewde uit de bankensector licht toe: “Als we niet actief mee zouden doen, dan hebben we echt een probleem als ze een infrastructuur creëren wat met standaarden onderbouwd wordt waar we gewoon niet met droge ogen op kunnen vertrouwen*.”*
-
-Deelname aan standaardisatieprocessen helpt zowel grote bedrijven als het MKB bij het voldoen aan regelgeving, omdat organisaties dan vroege toegang hebben tot informatie over aankomende eisen en verplichtingen, waardoor ze tijdig maatregelen kunnen nemen om compliant te worden of te blijven.
-
+Actieve deelname aan standaardisatieprocessen biedt de organisaties strategische voordelen, zoals het beïnvloeden van standaarden voor eigen organisatievoordelen (bijvoorbeeld: het vergroten van het eigen marktaandeel en het tegenhouden van besluiten die niet aansluiten bij eigen producten of diensten), het verbeteren van de implementatie van internationale standaarden en het waarborgen van productveiligheid. Dit leidt tot economische voordelen: efficiëntie, effectiviteit en concurrentievoordelen.  
+Een geïnterviewde uit de bankensector licht toe: “Als we niet actief mee zouden doen, dan hebben we echt een probleem als ze een infrastructuur creëren wat met standaarden onderbouwd wordt waar we gewoon niet met droge ogen op kunnen vertrouwen.”  
+Deelname aan standaardisatieprocessen helpt zowel grote bedrijven als het MKB bij het voldoen aan regelgeving, omdat organisaties dan vroege toegang hebben tot informatie over aankomende eisen en verplichtingen, waardoor ze tijdig maatregelen kunnen nemen om compliant te worden of te blijven.  
 Actieve deelname door overheidsorganisaties stelt hen in staat om standaarden te beïnvloeden op basis van publieke waarden zoals privacy, veiligheid, transparantie en toegankelijkheid. Tegelijkertijd vergroot de invloed van de Nederlandse overheid binnen Europese en internationale besluitvormingsprocessen. Een geïnterviewde uit de publieke sector licht toe: “Ja, we sturen \[…\] op risico's die we zien in bijvoorbeeld de telecom, cellulaire netwerken 5G en 6G, … Veiligheid in het gebruik en dan daar waar de overheid vooral invloed wil uitoefenen en nieuwe dingen zoals AI, nieuwe onderwerpen die bovenkomen. We worden heel veel ingezet nu op cybersecurity. Dingen waarvan we denken dat ze goed lopen zonder overheid, daar zetten we minder op in*.”*
 
-Passieve deelname aan standaardisatie biedt bedrijven vroegtijdig inzicht in nieuwe ontwikkelingen, waardoor ze snel kunnen reageren op veranderingen in regelgeving en technologie. Een geïnterviewde benadrukt het belang van betrokkenheid: “Ik vind het belangrijk dat wij als bedrijf een connectie hebben of dicht op de ontwikkelingen zitten die hier plaatsvinden. Dat is de hoofdreden waarom ik hier zit.”
-
+Passieve deelname aan standaardisatie biedt bedrijven vroegtijdig inzicht in nieuwe ontwikkelingen, waardoor ze snel kunnen reageren op veranderingen in regelgeving en technologie. Een geïnterviewde benadrukt het belang van betrokkenheid: “Ik vind het belangrijk dat wij als bedrijf een connectie hebben of dicht op de ontwikkelingen zitten die hier plaatsvinden. Dat is de hoofdreden waarom ik hier zit.”  
 Passieve deelname aan standaardisatieprocessen door overheidsorganisaties stelt hen in staat om goed geïnformeerd te blijven, beleidskeuzes voor te bereiden en te leren van andere landen.
 
-Collectief belang en sectoraal belang
+### Collectief belang en sectoraal belang
 
 Door deelname en bijdrage aan standaardisatie-activiteiten, kunnen standaarden ontwikkeld worden die voordelen opleveren voor veel verschillende partijen. Daarom streeft men doorgaans naar (volledige) consensus en proberen verschillende bedrijven samen te werken om te komen tot een breed gedragen oplossing. Organisatiebelang en sectoraal belang vloeien zodoende soms in elkaar over, wat één van de geïnterviewden als volgt aangeeft: “We willen natuurlijk een product in de markt zetten en dat gaat in deze branche eigenlijk niet als je dat alleen doet. Er is niemand die zo'n marktaandeel heeft dat ze iets door kunnen drukken.”
 
 Vanwege mededingingsregels kan samenwerking in een sector beperkt zijn, maar standaardisatie biedt een neutraal en transparant mechanisme om dit toch mogelijk te maken. Het helpt zowel het MKB als grote organisaties gezamenlijke vooruitgang te boeken in interoperabiliteit, efficiëntie en innovatie, zonder concurrentie te schaden of regels te overtreden.
 
-Persoonlijke motivatie
+### Persoonlijke motivatie
 
 Deelname aan standaardisatie-activiteiten biedt professionals kansen voor groei, strategische inzichten, netwerkuitbreiding en het verbeteren van vaardigheden. De werkzaamheden worden veelal op eigen kosten en deels in eigen tijd uitgevoerd, deelnemers ervaren het als zodanig waardevol vanwege de professionele voordelen en persoonlijke voldoening. Het werk is uitdagend en interessant, met volop mogelijkheden om te leren en te groeien, en biedt een unieke kans om expertise te delen en in te zetten voor het bredere maatschappelijke belang.
 
