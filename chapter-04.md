@@ -1,53 +1,69 @@
 
-# Onderzoeksvragen
+# Methode van onderzoek
 
-Dit onderzoek richt zich op drie hoofdvragen om een helder beeld te krijgen van de huidige situatie en de mogelijke verbeterpunten:
+Voor de kwantitatieve analyse is een onderzoeksmethode gehanteerd die hier verder globaal wordt beschreven.
 
-1.  *Hoe zijn Nederlandse belanghebbenden ten opzichte van andere landen vertegenwoordigd in internationale standaardisatie-organisaties?*  
-    Hoe heeft zich dit over de afgelopen vijf jaar ontwikkeld? (Kwantitatief antwoord)
+De gedetailleerde onderzoeksmethode naar de Nederlandse participatie in Europese- en internationale standaardisatie, is beschreven in een separaat document.
 
-2.  *Wat drijft de betrokkenheid van de verschillende Nederlandse organisaties?*  
-    Waarom hebben partijen hun betrokkenheid vermeerderd of verminderd?  
-    Wat verwachten ze in de toekomst te gaan doen? (Kwalitatief antwoord)
+Deze bevat:
 
-3.  *Wat kan de overheid doen om de Nederlandse deelname in belangrijke Europese en internationale standaardisatieprocessen te vergroten of beter af te stemmen?*  
-    (Beleidsmatig advies)
+- Een verdere uitwerking van de herkomst van de gegevens van participaties.  
 
-Deze vragen worden beantwoord op basis van onderzoek bij de volgende 11 organisaties (zie bijlage A voor een nadere duiding van deze organisaties):
+- Een verdere uitwerking van de resultaten per SDO.
 
-- Drie internationale standaardisatie-organisaties: ITU, ISO en IEC.
+- De uitgesplitste cijfers over de participatie.
 
-- Drie Europese standaardisatie-organisaties: CEN, CENELEC en ETSI.
+## Kwantitatieve analyse participatie 
 
-- Vijf standaardisatie-organisaties, consortia en samenwerkingsverband: IETF, IEEE, W3C, OASIS en 3GPP.
+Voor de kwantitatieve analyse van de participatie van Nederlandse organisaties in internationale normalisatieprocessen zijn gegevens verzameld over 2019 tot en met 2024, van de websites en portalen van de SDO’s en is een dataset beschikbaar gesteld door het Forum Standaardisatie.
 
-Om deze vragen te beantwoorden is empirisch onderzoek uitgevoerd en zijn de resultaten hiervan gerelateerd aan actuele beleidsstukken, in het bijzonder: 1) Kamerstuk 36 410 XIII met betrekking tot de bevindingen uit de evaluatie van het Nederlands Normalisatie Instituut en 2) De Nationale Normalisatieagenda (versie december 2024, nog niet gepubliceerd document van het ministerie van Economische Zaken).
+Er zijn **drie representatievormen voor Nederlandse vertegenwoordiging**:
 
-Het voornemen is om het onderzoek elke drie tot vijf jaar te herhalen.
+1.  **Landelijke afvaardiging**: Afgevaardigden van Nederlandse belanghebbenden worden samen via NEN vertegenwoordigd.
 
-## Scope en overwegingen
+2.  **Individuele vertegenwoordiging**: Nederlandse personen sluiten zich op persoonlijke titel aan bij SDO’s, mogelijk wel namens een organisatie.
 
-Het onderzoek betreft zowel een kwantitatief als kwalitatief als deel. Voor het kwalitatieve deel zijn in totaal 34 organisaties geïnterviewd. De keuze van deze organisaties is primair gebaseerd op het belang voor Nederland van de ICT-standaard die wordt ontwikkeld. Verder is er gezocht naar een goede balans tussen Standards Development Organisations (SDO’s), de grootte en het type van de organisatie en bedrijfsleven versus (semi-)overheid. Op verzoek van Bureau Forum Standaardisatie zijn gedurende dit onderzoek ook vier organisaties gelieerd aan de Europese Commissie (EC) in de scope van het onderzoek opgenomen en ook Global Standands One (GS1) als een van de SDO’s.
+3.  **Organisatievertegenwoordiging**: Een Nederlandse belanghebbende is lid en vaardigt personen af.
 
-Aantal geïnterviewden per sector in scope van het onderzoek:
+De beschikbaarheid van gegevens varieerde per SDO. Voor een overzicht hiervan, zie bijlage A. SDO’s in scope van het onderzoek tabel 13.
 
-- Distributie en Logistiek: 1
+Om de participatie van alle SDO’s te kunnen vergelijken is een uniform datamodel opgesteld.
 
-- Energie en petrochemie: 2
+Het Nederlands belang is gekoppeld aan de betreffende organisatie namens welke een persoon participeert. Hiervoor is een ledenlijst van NEN gebruikt, uitgebreid met namen van Nederlandse bedrijven die in de dataset voorkomen. Er zijn twee modellen mogelijk om het Nederlands belang te bepalen:
 
-- Financiële dienstverlening: 4
+1.  De organisatie is met vermelding van land geregistreerd bij de SDO.  
+    In dat geval wordt de landvermelding overgenomen, maar wordt de organisatie zelf opgenomen in de organisatielijsten, zodat participatie aan andere SDO’s hiermee verrijkt kan worden.
 
-- Ingenieursdiensten en Consultancy: 3
+2.  De organisatie moet op naam gematcht en gekoppeld worden aan een organisatie uit de organisatielijsten. Wanneer er een match is, kan geconcludeerd worden dat er sprake is van vertegenwoordiging van een Nederlands belang.
 
-- Overheid (EU): 4
+De tweede route introduceert een complexiteit wanneer sprake is van multinationals, die relatief vaak als Nederlands belang worden aangemerkt omdat zij lid zijn van NEN en dus ook via hun Nederlandse belang participeren. Bij de bespreking van de resultaten wordt hier dieper op ingegaan.
 
-- Overheid en Publieke Sector (NL): 10
+## Interviews
 
-- Retail: 1
+Voor dit deel van het onderzoek zijn connecties gelegd met 34 organisaties via NEN, leden van Forum Standaardisatie en het eigen netwerk van ICTU. Met de geïnterviewden is afgesproken dat ze anoniem blijven. Van de geïnterviewden zijn er vier Engelstalig waaronder twee van de EC. De overige personen zijn Nederlandstalig. Ze ontvingen vooraf de te bespreken onderwerpen.
 
-- Technologie en IT-dienstverlening: 9
+De interviews, duurden gemiddeld 60 minuten en hebben tussen mei en december 2024 plaatsgevonden. Ze zijn online afgenomen en automatisch getranscribeerd. Vervolgens zijn de gesprekssamenvattingen geautomatiseerd gegenereerd en hebben de onderzoekers handmatig per samenvatting tekstdelen gecategoriseerd op basis van de onderwerpen die gerelateerd zijn aan onderzoeksvragen 2 en 3.
 
-Het onderzoek beperkt zich tot het bepalen van waar en hoe Nederland is vertegenwoordigd in Europese en internationale standaardisatie-organisaties en activiteiten. Het onderzoek is niet gericht op individuele ICT-standaarden of technologieën, maar op het niveau van organisaties, commissies of werkgroepen.
+Tabel 1 toont het overzicht van het aantal geïnterviewde personen per SDO en per organisatiecategorie. De SDO waaraan de geïnterviewde het meest bijdraagt, is opgenomen.
 
-In dit rapport is een advies opgenomen over wat de overheid kan doen om Nederlandse participatie in strategische Europese en internationale standaardisatieonderwerpen te stimuleren. Er wordt geen oordeel gegeven over de vraag of Nederland ‘voldoende’ vertegenwoordigd is.
+| SDO         | Micro | MKB   | Groot  | Overig\*\* | Overheid | Europese Commissie | Eindtotaal |
+|-------------|-------|-------|--------|------------|----------|--------------------|------------|
+| CEN         |       |       | 1      |            | 1        |                    | 2          |
+| CEN/CENELEC |       |       | 3      |            |          | 1                  | 4          |
+| ISO         |       |       | 5      | 1          | 1        |                    | 7          |
+| Oasis       | 2     |       |        |            |          |                    | 2          |
+| W3C         |       |       |        | 1          | 1        |                    | 2          |
+| ETSI        |       |       |        |            | 2        | 1                  | 3          |
+| Geen\*      |       |       | 2      | 1          |          | 2                  | 5          |
+| IETF        |       |       |        | 1          | 1        |                    | 2          |
+| ISO/IEC     |       | 1     |        |            | 1        |                    | 1          |
+| 3GPP        |       |       | 1      |            |          |                    | 1          |
+| IEEE-SA     |       |       | 2      |            |          |                    | 2          |
+| IEC         |       | 1     |        |            |          |                    | 1          |
+| GS1         |       |       | 1      |            |          |                    | 1          |
+| Totaal      | **2** | **2** | **15** | **3**      | **7**    | **4**              | **34**     |
+
+\*Geen: geen actieve / passieve rol in een SDO. Geïnterviewden hebben een coördinerende rol of beleidsmatige rol.
+
+\*\*Overig: stichting, coöperatie met publieke taken, brancheorganisatie
 
