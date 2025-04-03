@@ -3,7 +3,7 @@
 
 Dit hoofdstuk geeft inzicht in de drijfveren voor deelname aan SDO’s. Waarom hebben partijen hun betrokkenheid vermeerderd of verminderd? Wat verwachten ze in de toekomst te gaan doen? Factoren waarom geïnterviewden gemotiveerd zijn om deel te nemen aan standaardisatie-activiteiten zijn geanalyseerd, zowel vanuit een organisatieperspectief als op basis van persoonlijke motivatie.
 
-## 5.1 Motivatie voor deelname
+## Motivatie voor deelname
 
 ### Belang voor de organisatie
 
@@ -23,10 +23,8 @@ Vanwege mededingingsregels kan samenwerking in een sector beperkt zijn, maar sta
 
 ### Persoonlijke motivatie
 
-Deelname aan standaardisatie-activiteiten biedt professionals kansen voor groei, strategische inzichten, netwerkuitbreiding en het verbeteren van vaardigheden. De werkzaamheden worden veelal op eigen kosten en deels in eigen tijd uitgevoerd, deelnemers ervaren het als zodanig waardevol vanwege de professionele voordelen en persoonlijke voldoening. Het werk is uitdagend en interessant, met volop mogelijkheden om te leren en te groeien, en biedt een unieke kans om expertise te delen en in te zetten voor het bredere maatschappelijke belang.
-
-Feedback uit de interviews geeft interessante inzichten in de persoonlijke motivatie, zoals: “Wat mij vooral fascineert is de dynamiek van standaarden en in het bijzonder wat betreft interoperabiliteit. Je werkt met meerdere partijen die elkaar commercieel en economisch het licht in de ogen niet gunnen, waarmee je toch samen om tafel moet en gezamenlijk een oplossing moet verzinnen.”
-
+Deelname aan standaardisatie-activiteiten biedt professionals kansen voor groei, strategische inzichten, netwerkuitbreiding en het verbeteren van vaardigheden. De werkzaamheden worden veelal op eigen kosten en deels in eigen tijd uitgevoerd, deelnemers ervaren het als zodanig waardevol vanwege de professionele voordelen en persoonlijke voldoening. Het werk is uitdagend en interessant, met volop mogelijkheden om te leren en te groeien, en biedt een unieke kans om expertise te delen en in te zetten voor het bredere maatschappelijke belang.  
+Feedback uit de interviews geeft interessante inzichten in de persoonlijke motivatie, zoals: “Wat mij vooral fascineert is de dynamiek van standaarden en in het bijzonder wat betreft interoperabiliteit. Je werkt met meerdere partijen die elkaar commercieel en economisch het licht in de ogen niet gunnen, waarmee je toch samen om tafel moet en gezamenlijk een oplossing moet verzinnen.”  
 Ook ideële motieven spelen een rol, zoals geïllustreerd door een andere geïnterviewde: “… er zijn bijvoorbeeld voorbeelden met aftappen of andere opsporingsactiviteiten waarbij je … vanuit simpelweg het publiek belang zegt, nu ga ik me even tegen de zaak aan bemoeien*!*”
 
 Uitdagingen vanuit organisatieperspectief
@@ -40,13 +38,13 @@ Een individueel standaardisatieproces duurt lang: twee tot vier jaar is gangbaar
 
 De opbrengsten worden doorgaans pas op lange termijn zichtbaar en deelname aan standaardisatie-activiteiten heeft niet altijd direct voordelen voor de organisatie zelf op korte termijn. Deelname wordt daardoor als een investering gezien en vindt daarom naast reguliere werkzaamheden plaats. Het is ongebruikelijk dat medewerkers aan standaardisatie een volledige werkweek besteden. Vaker werkt men hieraan naast een reguliere functie of zelfs in de vrije tijd. Geïnterviewden die niet specifiek aan standaarden werken, besteden er gemiddeld één tot vier uur per week aan. Voor zo’n vijf personen die de standaardisatierol in hun werkpakket hebben, kan actieve deelname aan werkgroepen oplopen tot meer dan twee weken per maand.
 
-## 5.2 Deelname en betrokkenheid in de toekomst
+## Deelname en betrokkenheid in de toekomst
 
 Er is een voorzichtige daling zichtbaar in deelname aan standaardisatie-activiteiten door Nederlandse organisaties. De oorzaak hiervan is dat meerwaarde van deelname aan standaardisatie niet altijd kwantitatief kan worden onderbouwd en de business case daardoor niet altijd voor de hand ligt. Het kan meerdere jaren duren voordat de opbrengsten van investeringen zichtbaar zijn en de directe zichtbaarheid van de voordelen is beperkt. Hierdoor ontstaat een gebrek aan betrokkenheid van senior managers en bestuurders, waardoor investeringen in standaardisatie onder druk komen te staan. Dit geldt ook voor grote bedrijven en multinationals.
 
 Standaardisatie wordt door enkele organisaties in het MKB (adviesbureau/consulting, energietechniek, e-commerce dienstverlening,) in toenemende mate erkend als strategisch instrument. Voor hen wordt prioritering op het inzetten van specifieke technologieën steeds belangrijker. Met name voor onderwerpen die voor de organisatie essentieel zijn. Het efficiënt bijhouden en monitoren van relevante ontwikkelingen wordt hierbij belangrijker. Een geïnterviewde uit het MKB geeft verder duiding: “Batterijen, laadpalen, alles wat op het net wordt uitgesloten, zonnepanelen, windturbines. Het is een buitengewoon belangrijk onderwerp als je \[standaarden\] niet goed voor elkaar hebt als land...waar willen we straks staan met een systeem dat werkt?”
 
-## 5.3 Het ontstane beeld na analyse van de interviews met betrekking tot de betrokkenheid
+## Het ontstane beeld na analyse van de interviews met betrekking tot de betrokkenheid
 
 1.  Strategische voordelen en vroegtijdige inzichten blijken drijfveren voor betrokkenheid te zijn.
 

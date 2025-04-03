@@ -3,7 +3,7 @@
 
 Om antwoord te kunnen geven op deze vraag, is de Nederlandse vertegenwoordiging in kaart gebracht. Vervolgens is onderzocht hoe de vertegenwoordiging zich heeft ontwikkeld over de afgelopen vijf jaar (2019-2024).
 
-## 4.1 Beschrijving en terminologie van verzamelde gegevens
+## Beschrijving en terminologie van verzamelde gegevens
 
 Voor de doeleinden van dit onderzoek wordt **participatie** beschouwd **als deelname aan het vormgeven van internationale standaarden**. Hierbij wordt onderscheid gemaakt tussen **drie verschillende eigenschappen van participatie: 1) representatievorm, 2) participatieobject en 3) participatiemethode**.
 
@@ -248,7 +248,7 @@ Tabel 6 Aantal participerende organisaties met Nederlands belang. NB: Voor 2019 
 | **2023** | 24                            |
 | **2024** | 19\*                          |
 
-## 4.4 Nederlandse vertegenwoordiging in formele rollen
+## Nederlandse vertegenwoordiging in formele rollen
 
 Formele rollen zijn bijvoorbeeld een voorzitterschap, een penvoerder (editor) of een reviewer in een standaardisatiewerkgroep.  
 Interviewrespondenten met een formele rol geven aan dat ze daarmee aanzienlijke invloed hebben op de ontwikkeling van standaarden. Zo heeft een voorzitter van een werkgroep, met wie gesproken is, wekelijks overleg met de Europese Commissie op het thema. Het succes van een standaardisatietraject wordt in grote mate bepaald door het leiderschap en de onpartijdigheid van deze persoon. Daarnaast geven respondenten aan dat de penvoerder een grote rol speelt, omdat deze de documenten formuleert die uiteindelijk de basis vormen voor de standaard. Hiervoor is diepgaande inhoudelijke kennis vereist.
@@ -324,7 +324,7 @@ Tabel 10 Aantal participaties per SDO per organisatietype
 | Organisaties van de Nederlandse overheid, waaronder Rijksoverheid, provincies, gemeenten, waterschappen, ZBO’s en overheidsstichtingen | 75    | 20    | 57    | 4     | 7   | 163    |
 | Totaal                                                                                                                                 | 6.922 | 1.778 | 2.086 | 42    | 296 | 11.124 |
 
-## 4.5 Het ontstane beeld na analyse van de data
+## Het ontstane beeld na analyse van de data
 
 - De Nederlandse participatie neemt in absolute zin toe (gelet op zowel het aantal participaties als op het aantal verschillende participerende organisaties).
 
