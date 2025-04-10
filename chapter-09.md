@@ -605,3 +605,70 @@ De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewe
 Samenvattingen interviews, per categorie
 
 Op te vragen bij de onderzoekers.
+
+**Nederland en standaardisatie: kansen benutten**
+
+*Onderzoeksmethode* naar de Nederlandse participatie in Europese- en internationale standaardisatie
+
+In opdracht van Forum Standaardisatie
+
+Projectteam ICTU en Dialogic
+
+Versie 1.2
+
+Datum: 07-04-2025
+
+Inhoudsopgave
+
+[1. Verantwoording kwantitatieve methoden (inclusief lijst van Nederlandse organisaties) [3](#verantwoording-kwantitatieve-methoden-inclusief-lijst-van-nederlandse-organisaties)](#verantwoording-kwantitatieve-methoden-inclusief-lijst-van-nederlandse-organisaties)
+
+[1.1. Doelstelling [3](#_Toc165905528)](#_Toc165905528)
+
+[1.2 Operationalisatie [3](#_Toc165905529)](#_Toc165905529)
+
+[1.3 Analysestappen [6](#analysestappen)](#analysestappen)
+
+[1.4 Beschikbaarheid van gegevens [9](#beschikbaarheid-van-gegevens)](#beschikbaarheid-van-gegevens)
+
+[2. Overzicht gegevensverzameling per SDO [12](#overzicht-gegevensverzameling-per-sdo)](#overzicht-gegevensverzameling-per-sdo)
+
+[2.1 CEN-CENELEC [12](#cen-en-cenelec)](#cen-en-cenelec)
+
+[2.2 ETSI [12](#etsi)](#etsi)
+
+[2.3 3GPP [13](#gpp)](#gpp)
+
+[2.4 ITU [13](#itu)](#itu)
+
+[2.5 ISO [15](#iso)](#iso)
+
+[2.6 IEC [15](#iec)](#iec)
+
+[2.7 IETF [16](#ietf)](#ietf)
+
+[2.8 IEEE-SA [16](#ieee-sa)](#ieee-sa)
+
+[2.9 W3C [17](#w3c)](#w3c)
+
+[2.10 OASIS [17](#oasis)](#oasis)
+
+[3. Resultaten kwantitatieve analyse per SDO [18](#resultaten-kwantitatieve-analyse-per-sdo)](#resultaten-kwantitatieve-analyse-per-sdo)
+
+[3.1 ISO [18](#iso-1)](#iso-1)
+
+[3.2 IEC [18](#iec-1)](#iec-1)
+
+[3.3 ETSI [19](#etsi-1)](#etsi-1)
+
+[3.4 3GPP [20](#gpp-1)](#gpp-1)
+
+[3.5 ITU [21](#itu-1)](#itu-1)
+
+[3.6 IETF [21](#ietf-1)](#ietf-1)
+
+[3.7 W3C [22](#w3c-1)](#w3c-1)
+
+[3.8 OASIS [23](#oasis-1)](#oasis-1)
+
+ 
+
