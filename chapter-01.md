@@ -1,11 +1,11 @@
 
 # Verantwoording kwantitatieve methoden (inclusief lijst van Nederlandse organisaties)
 
-1.  <span id="_Toc165905528" class="anchor"></span>**Doelstelling**
+## **Doelstelling**
 
-De kwantitatieve analyse beoogt in kaart te brengen in welke mate Nederlandse organisaties vertegenwoordigd zijn in standaardisatietrajecten bij de elf genoemde standaardisatie-organisaties.<span id="_Toc165905529" class="anchor"></span>
+De kwantitatieve analyse beoogt in kaart te brengen in welke mate Nederlandse organisaties vertegenwoordigd zijn in standaardisatietrajecten bij de elf genoemde standaardisatie-organisaties.
 
-2.  Operationalisatie
+##  **Operationalisatie**
 
 Voor de doeleinden van dit onderzoek wordt **participatie** beschouwd als deelname aan de vormgeving van internationale normen of standaarden. Hier maken wij onderscheid tussen drie verschillende eigenschappen van participatie: *representatievorm*, *participatieobject* en *participatiemethode*. Hieronder zetten wij deze drie uiteen.
 
