@@ -601,7 +601,7 @@ De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewe
 
     - Dit resulteerde in bruikbare samenvattingen. De samenvattingen zijn handmatig geanalyseerd en per onderwerp samengevoegd ter beantwoording van een onderzoeksvraag. De resultaten zijn verwerkt in hoofdstukken 4, 5 en 6.
 
-### Samenvattingen interviews, per categorie 
+### Samenvattingen interviews, per categorie
 
 Op te vragen bij de onderzoekers.
 

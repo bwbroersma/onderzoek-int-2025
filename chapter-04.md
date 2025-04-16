@@ -3,7 +3,7 @@
 
 Voor de uitvoering van dit onderzoek is gebruikgemaakt van een combinatie van kwantitatieve en kwalitatieve methoden. Voor de kwantitatieve analyse is een onderzoeksmethode gehanteerd die hier verder globaal wordt beschreven. De gedetailleerde onderzoeksmethode naar de Nederlandse participatie in Europese- en internationale standaardisatie, is beschreven in een separaat document. Deze bevat:
 
-- Een verdere uitwerking van de herkomst van de gegevens van participaties.  
+- Een verdere uitwerking van de herkomst van de gegevens van participaties.
 
 - Een verdere uitwerking van de resultaten per SDO.
 

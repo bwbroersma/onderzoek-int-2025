@@ -55,7 +55,7 @@ Uit de interviews blijkt verder het belang van publiek-private samenwerking om d
 Het vinden van mensen met de juiste vaardigheden (capaciteitsopbouw) vormt een uitdaging om tot een succesvol standaardisatietraject te komen. Er is sterke behoefte aan nieuwe instroom in het vakgebied. **Educatie** kan hierbij helpen.  
 Bewustwording en educatie over het belang van standaardisatie zijn essentieel om de concurrentiepositie en innoverende kracht van de Nederlandse industrie te bevorderen. De overheid kan actiever worden in het bevorderen van kennisbewustzijn, het mobiliseren van experts en het faciliteren van interdisciplinaire samenwerking over alle aspecten van standaardisatie, zowel binnen als buiten de overheid. Men benadrukt het belang van een centraal aanspreekpunt voor interdisciplinaire samenwerking, een bestaand kennisinstituut. Wetenschappers en experts uit verschillende disciplines kunnen hier samenkomen om hun kennis en inzichten te delen alvorens men tot standaardisatie-initiatieven over gaat. Door laagdrempelige toegang tot kennis over standaardisatie te bieden zou specifiek het mkb gestimuleerd kunnen worden om meer te participeren.
 
-## Beeld dat naar voren is gekomen uit de interviews om deelname aan belangrijke Europese en internationale standaardisatieprocessen te vergroten. 
+## Beeld dat naar voren is gekomen uit de interviews om deelname aan belangrijke Europese en internationale standaardisatieprocessen te vergroten.
 
 **Om de Nederlandse deelname aan belangrijke Europese en internationale standaardisatieprocessen te vergroten of beter af te stemmen, kan de overheid in de volgende behoeften voorzien:**
 

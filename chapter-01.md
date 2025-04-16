@@ -40,7 +40,7 @@ Verder zijn er 34 organisaties bevraagd over de drie onderzoeksvragen en hun bij
 <!-- -->
 
 4.  **Strategische voordelen** en vroegtijdige inzichten zijn **drijfveren voor betrokkenheid.**  
-    Actieve deelname levert organisaties strategische voordelen op zoals het beïnvloeden van standaarden, het vergroten van het marktaandeel, het verbeteren van interoperabiliteit van grensoverschrijdende digitale diensten en interoperabiliteit en het waarborgen van (product)veiligheid. Bij passieve deelname krijgen organisaties vroegtijdig inzicht in nieuwe ontwikkelingen, waardoor zij snel kunnen anticiperen.  Tenslotte draagt deelname vaak bij aan een collectief of sectoraal belang. 
+    Actieve deelname levert organisaties strategische voordelen op zoals het beïnvloeden van standaarden, het vergroten van het marktaandeel, het verbeteren van interoperabiliteit van grensoverschrijdende digitale diensten en interoperabiliteit en het waarborgen van (product)veiligheid. Bij passieve deelname krijgen organisaties vroegtijdig inzicht in nieuwe ontwikkelingen, waardoor zij snel kunnen anticiperen.  Tenslotte draagt deelname vaak bij aan een collectief of sectoraal belang.
 
 5.  **Betrokkenheid** lijdt onder **gebrek** aan **kennis, tijd, middelen en capaciteit,** waardoor de prioritering van standaardisatie onvoldoende aandacht krijgt. Voordelen van standaardisatie zijn vaak pas op langere termijn zichtbaar.  
     Veel organisaties hebben niet de kennis, tijd, middelen en capaciteit om actief deel te nemen. Bij het management en de bestuurders lijkt onvoldoende bekendheid met het onderwerp de betrokkenheid te beperken. Daarnaast zijn standaardisatieprocessen van lange duur en complex, wat deelname verder bemoeilijkt. Daardoor worden de opbrengsten en voordelen pas op lange termijn zichtbaar. Dit alles leidt ertoe dat standaardisatie onvoldoende prioriteit krijgt.
@@ -66,7 +66,7 @@ Verder zijn er 34 organisaties bevraagd over de drie onderzoeksvragen en hun bij
 1.  **Beleidskoers en visie**  
     De overheid dient een **duidelijke beleidskoers en visie** op standaardisatie te ontwikkelen, om de Nederlandse belangen te versterken. Het is nodig deze uit te dragen naar organisaties en de Europese Commissie (EC). Hiervoor is nodig:
 
-- **Een duidelijk beeld te hebben** van de Nederlandse prioriteiten en van de positie van de Nederlandse overheid in deelname aan standaardisatie-activiteiten. 
+- **Een duidelijk beeld te hebben** van de Nederlandse prioriteiten en van de positie van de Nederlandse overheid in deelname aan standaardisatie-activiteiten.
 
 - Gedegen **afwegingskaders op te stellen** (zoals de Nationale Normalisatie Agenda dat doet) met criteria voor inzet op standaardisatieactiviteiten die transparantie, eerlijke besluitvorming en uitlegbaarheid bevorderen, terwijl bedrijven binnen dergelijke kaders kunnen innoveren (zoals het geval is bij AI-standaarden).
 
@@ -75,19 +75,19 @@ Verder zijn er 34 organisaties bevraagd over de drie onderzoeksvragen en hun bij
 - **Kritisch te kijken naar de toegevoegde waarde** van voorgestelde geharmoniseerde standaarden in EU-regelgeving en het Nederlandse bedrijfsleven te **informeren of te ondersteunen** bij de implementatie (bijvoorbeeld door publiek-private dialogen te voeren). Dit stelt organisaties in staat proactief in te spelen op marktveranderingen en de technologie, wat hun positie op de lange termijn versterkt.
 
 7.  **Voortouw nemen** bij het **coördineren en prioriteren** van standaardisatie-activiteiten en bij het stimuleren van samenwerking.  
-    Aanbevolen wordt dat de overheid een meer actieve coördinerende rol oppakt in onderwerpen om bewustwording van urgentie en meerwaarde van standaardisatie te vergroten. Daaronder vallen onderwerpen als:  
+    Aanbevolen wordt dat de overheid een meer actieve coördinerende rol oppakt in onderwerpen om bewustwording van urgentie en meerwaarde van standaardisatie te vergroten. Daaronder vallen onderwerpen als:
 
 - **Proactief signaleren** op inzet van relevante standaardisatie-activiteiten.
 
 - Bevordering van (**multidisciplinaire) samenwerking** tussen de overheid, industriesectoren en de wetenschap, zoals in Duitsland plaatsvindt.
 
-- **Monitoring** van relevante standaardisatie-activiteiten 
+- **Monitoring** van relevante standaardisatie-activiteiten
 
-- Het mogelijk maken van **strategische prioritering** van standaardisatie-activiteiten  
+- Het mogelijk maken van **strategische prioritering** van standaardisatie-activiteiten
 
 - **Borging van neutraliteit** in de ontwikkeling van standaarden en daarmee het beschermen van maatschappelijk/publieke waarden (als reactie op Big Tech).
 
-- Het zorgen voor de **juiste kaders** bij de ontwikkeling van standaarden. 
+- Het zorgen voor de **juiste kaders** bij de ontwikkeling van standaarden.
 
 <!-- -->
 
