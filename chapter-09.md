@@ -241,9 +241,11 @@ CENELEC</td>
 </tbody>
 </table>
 
-## B. Verantwoording interviews 
+Legenda: OW = openbare website, LP = ledenportaal, API = application programmable interface LM V = Lidmaatschap vereist.
 
-Overzicht geïnterviewden
+## B. Verantwoording interviews
+
+### Overzicht geïnterviewden
 
 **Tabel 14** geeft een overzicht van alle geïnterviewden die hebben deelgenomen aan het kwalitatieve deel van het onderzoek. Bij de keuze van geïnterviewden is rekeningen gehouden met:
 
@@ -277,7 +279,7 @@ Tabel 14 Expertise en rol van de 34 geïnterviewden, hun deelname aan een SDO en
 <td>AI wordt niet interdisciplinair aangevlogen, ook niet in SDO’s; besteedt 1-2 dagen per week aan standaardisatie</td>
 </tr>
 <tr class="even">
-<td>Quantum technologie</td>
+<td>Quantumtechnologie</td>
 <td>CEN/CENELEC JTC 22</td>
 <td>Voorzitter</td>
 </tr>
@@ -448,7 +450,7 @@ Tabel 14 Expertise en rol van de 34 geïnterviewden, hun deelname aan een SDO en
 
 Tabel 15 Toont het aantal geïnterviewden, waar de geïnterviewde werkzaam is en grootte en type van de organisatie
 
-| Organisatie                            | Micro | MKB | Groot | \*Overig | Overheid | Europese Commissie | Eindtotaal |
+| Organisatie                            | Micro | Mkb | Groot | \*Overig | Overheid | Europese Commissie | Eindtotaal |
 |----------------------------------------|-------|-----|-------|----------|----------|--------------------|------------|
 | ABN AMRO                               |       |     | 1     |          |          |                    | 1          |
 | Ahold Delhaize                         |       |     | 1     |          |          |                    | 1          |
@@ -485,11 +487,11 @@ Tabel 15 Toont het aantal geïnterviewden, waar de geïnterviewde werkzaam is en
 
 \*Overig: stichting, coöperatie met publieke taken, brancheorganisatie
 
-Vragenlijst
+### Vragenlijst
 
 Voor dit onderzoek is gebruik gemaakt van ‘semi-structured interviews’ waarbij onderstaande vragen de leidraad vormden voor het gesprek.
 
-**Kennismaken**
+### Kennismaken
 
 - Bedankt dat u wilt meewerken aan dit interview. Wij zijn benieuwd wat uw interesse is om aan ons onderzoek mee te doen. Heeft u daar een specifieke reden voor? \[Bijvoorbeeld: het is mijn intrinsieke motivatie om mijn kennis in standaarden te laten opnemen; ik ben gestuurd door mijn organisatie om niet de boot te missen\]
 
@@ -501,7 +503,7 @@ Voor dit onderzoek is gebruik gemaakt van ‘semi-structured interviews’ waarb
 
   - Verricht u die activiteiten alleen, of werkt u daarin samen met collega’s van uw organisatie?
 
-**Participatie in de ontwikkeling van standaarden**
+### Participatie in de ontwikkeling van standaarden
 
 - Wat is de positie van uw organisatie ten opzichte van andere partijen in het veld? \[Denk in termen van “wij zijn de grootste speler in dit veld; er is geen dominante partij, etc.”\].
 
@@ -550,7 +552,7 @@ We zijn ook benieuwd naar uw ervaring bij andere deelnemers.
 
     - Relatie met achterban/werkveld.
 
-**Uitkomst**
+### Uitkomst
 
 We willen nog iets meer inzoomen op het resultaat van standaardisatieprocessen.
 
@@ -558,7 +560,7 @@ We willen nog iets meer inzoomen op het resultaat van standaardisatieprocessen.
 
 - Wat is relevantie van de besproken standaard(en) voor uw organisatie, waarom is die voor u en voor uw partij van belang?
 
-**Rol overheid**
+### Rol overheid
 
 We willen nog graag uw mening horen over de rol van de Rijksoverheid in het standaardisatie-veld?
 
@@ -570,7 +572,7 @@ We willen nog graag uw mening horen over de rol van de Rijksoverheid in het stan
 
 - Wat kan de Rijksoverheid naar uw idee doen om Nederlandse vertegenwoordiging te stimuleren? Bijvoorbeeld SME’s.
 
-**Afsluiting en vervolgstappen**
+### Afsluiting en vervolgstappen
 
 Bedankt voor uw deelname.
 
@@ -580,7 +582,7 @@ Bedankt voor uw deelname.
 
 - Is er (nog) relevante informatie die u met ons kan delen m.b.t. het onderzoek? Is er een thema die niet besproken is, maar u toch wil noemen?
 
-**Evaluatie**
+### Evaluatie
 
 - Hoe heeft u het gesprek/interview ervaren?
 
@@ -588,9 +590,7 @@ Bedankt voor uw deelname.
 
 - Is er nog iets dat u wilt toevoegen?
 
-#### 
-
-Prompts
+### Prompts
 
 De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewers gehouden en resulteerden in transcripties met gemiddeld zo'n 9.000 woorden. Van deze transcripties is een geautomatiseerde samenvatting gegenereerd die was ingedeeld in categorieën, waarbij gebruik is gemaakt van de volgende prompts:
 
@@ -602,73 +602,6 @@ De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewe
 
     - Dit resulteerde in bruikbare samenvattingen. De samenvattingen zijn handmatig geanalyseerd en per onderwerp samengevoegd ter beantwoording van een onderzoeksvraag. De resultaten zijn verwerkt in hoofdstukken 4, 5 en 6.
 
-Samenvattingen interviews, per categorie
+### Samenvattingen interviews, per categorie 
 
 Op te vragen bij de onderzoekers.
-
-**Nederland en standaardisatie: kansen benutten**
-
-*Onderzoeksmethode* naar de Nederlandse participatie in Europese- en internationale standaardisatie
-
-In opdracht van Forum Standaardisatie
-
-Projectteam ICTU en Dialogic
-
-Versie 1.2
-
-Datum: 07-04-2025
-
-Inhoudsopgave
-
-[1. Verantwoording kwantitatieve methoden (inclusief lijst van Nederlandse organisaties) [3](#verantwoording-kwantitatieve-methoden-inclusief-lijst-van-nederlandse-organisaties)](#verantwoording-kwantitatieve-methoden-inclusief-lijst-van-nederlandse-organisaties)
-
-[1.1. Doelstelling [3](#_Toc165905528)](#_Toc165905528)
-
-[1.2 Operationalisatie [3](#_Toc165905529)](#_Toc165905529)
-
-[1.3 Analysestappen [6](#analysestappen)](#analysestappen)
-
-[1.4 Beschikbaarheid van gegevens [9](#beschikbaarheid-van-gegevens)](#beschikbaarheid-van-gegevens)
-
-[2. Overzicht gegevensverzameling per SDO [12](#overzicht-gegevensverzameling-per-sdo)](#overzicht-gegevensverzameling-per-sdo)
-
-[2.1 CEN-CENELEC [12](#cen-en-cenelec)](#cen-en-cenelec)
-
-[2.2 ETSI [12](#etsi)](#etsi)
-
-[2.3 3GPP [13](#gpp)](#gpp)
-
-[2.4 ITU [13](#itu)](#itu)
-
-[2.5 ISO [15](#iso)](#iso)
-
-[2.6 IEC [15](#iec)](#iec)
-
-[2.7 IETF [16](#ietf)](#ietf)
-
-[2.8 IEEE-SA [16](#ieee-sa)](#ieee-sa)
-
-[2.9 W3C [17](#w3c)](#w3c)
-
-[2.10 OASIS [17](#oasis)](#oasis)
-
-[3. Resultaten kwantitatieve analyse per SDO [18](#resultaten-kwantitatieve-analyse-per-sdo)](#resultaten-kwantitatieve-analyse-per-sdo)
-
-[3.1 ISO [18](#iso-1)](#iso-1)
-
-[3.2 IEC [18](#iec-1)](#iec-1)
-
-[3.3 ETSI [19](#etsi-1)](#etsi-1)
-
-[3.4 3GPP [20](#gpp-1)](#gpp-1)
-
-[3.5 ITU [21](#itu-1)](#itu-1)
-
-[3.6 IETF [21](#ietf-1)](#ietf-1)
-
-[3.7 W3C [22](#w3c-1)](#w3c-1)
-
-[3.8 OASIS [23](#oasis-1)](#oasis-1)
-
- 
-
