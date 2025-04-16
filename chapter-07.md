@@ -78,9 +78,8 @@ Bewustwording en educatie over het belang van standaardisatie zijn essentieel om
 
 9)  **Inzetten op educatie over standaardisatie.** Dit zorgt ervoor dat de overheid zelf effectiever kan handelen op gebied van ontwikkeling, implementatie en handhaving van standaarden. Het helpt het bedrijfsleven en het mkb in het bijzonder bij het verbeteren van de concurrentiepositie en de innoverende kracht. En tenslotte komt educatie de nieuwe instroom in het vakgebied ten goede.
 
-10) Het opzetten van een mechanisme buiten de ESO-structuur.
-
-> Om Nederlandse belangen te behartigen waar deelname veel meer direct en op eigen titel, (en dus niet vanuit NEN wordt ondersteund) kan een mechanisme worden opgezet. Denk aan lidmaatschapsopties, een nationaal coördinatiemechanisme / platform voor samenwerking en opzet van duidelijke communicatie over niet-formele SDO’s.
+10) Het opzetten van een mechanisme buiten de ESO-structuur.  
+    Om Nederlandse belangen te behartigen waar deelname veel meer direct en op eigen titel, (en dus niet vanuit NEN wordt ondersteund) kan een mechanisme worden opgezet. Denk aan lidmaatschapsopties, een nationaal coördinatiemechanisme / platform voor samenwerking en opzet van duidelijke communicatie over niet-formele SDO’s.
 
 ### Een schematische vergelijking van de Nationale Normalisatieagenda met de opgehaalde wensen is weergegeven in Tabel 11.
 

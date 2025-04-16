@@ -85,6 +85,9 @@ Tabel 12 De standaardisatie-organisaties (SDO’s ) in scope van het onderzoek m
 
 Tabel 13 Overzicht haalbaarheid gegevensverzameling per SDO per gegevenstype.
 
+Waar ingevuld is een methode gevonden om bij de gegevens te komen.Waar geel, bleek dat niet haalbaar, overige gegevens zijn verzameld.  
+Legenda: OW = openbare website, LP = ledenportaal, API = application programmable interface LM V = Lidmaatschap vereist.
+
 <table style="width:100%;">
 <colgroup>
 <col style="width: 14%" />
@@ -241,8 +244,6 @@ CENELEC</td>
 </tbody>
 </table>
 
-Legenda: OW = openbare website, LP = ledenportaal, API = application programmable interface LM V = Lidmaatschap vereist.
-
 ## Verantwoording interviews
 
 ### Overzicht geïnterviewden
@@ -254,8 +255,6 @@ Legenda: OW = openbare website, LP = ledenportaal, API = application programmabl
 - De participatie van een geïnterviewde in een SDO in de onderzoek scope.
 
 - Het standaardisatie-onderwerp in het kader van het strategisch belang voor Nederland.
-
-.
 
 Tabel 14 Expertise en rol van de 34 geïnterviewden, hun deelname aan een SDO en bijzonderheden
 

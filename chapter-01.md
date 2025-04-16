@@ -24,10 +24,10 @@ Verder zijn er 34 organisaties bevraagd over de drie onderzoeksvragen en hun bij
 1.  **Een groeiende deelname** aan SDO’s in **absolute zin.**  
     Uit de verzamelde gegevens over de periode 2019 -2024 lijkt sprake te zijn van een groeiende deelname, gelet op zowel het aantal individuele deelnames als het aantal Nederlandse organisaties dat deelneemt.
 
-2.  Echter, het **aandeel** van de participatie van Nederlandse belanghebbenden ten opzichte van het **mondiale** totaal**, neemt iets af.**  
+2.  Echter, het **aandeel** van de participatie van Nederlandse belanghebbenden ten opzichte van het **mondiale** totaal, **neemt iets af**.  
     De trend is dat de mondiale participatie toeneemt, de participatie van Nederlandse belanghebbenden blijft in verhouding achter.
 
-3.  **Een sterke Nederlandse vertegenwoordiging** op onderwerpen waar Nederland een **groot** (economisch) **belang** heeft**.**  
+3.  **Een sterke Nederlandse vertegenwoordiging** op onderwerpen waar Nederland een **groot** (economisch) **belang** heeft.  
     Omdat Nederland zich meer dan andere landen richt op thema’s waar zij een groot economisch belang heeft- zoals AI, Telecom, digitale beveiliging, asset management en betaaldiensten, is de participatie aan de betreffende standaardisatie-platformen sterk vertegenwoordigd. Op andere onderwerpen lijkt participatie juist minder te zijn dan die van andere landen.  
     De Nederlandse invloed van organisaties op standaardisatie is niet vast te stellen op basis van enkel het aantal participaties. Dit, omdat invloed niet gaat over aantal, maar over de wijze van deelname (bijvoorbeeld, meeschrijven aan een norm en aanwezigheid op belangrijke momenten).
 
@@ -63,8 +63,8 @@ Verder zijn er 34 organisaties bevraagd over de drie onderzoeksvragen en hun bij
 
 ### Voornaamste aanbevelingen
 
-1.  **Beleidskoers en visie  
-    **De overheid dient een **duidelijke beleidskoers en visie** op standaardisatie te ontwikkelen, om de Nederlandse belangen te versterken. Het is nodig deze uit te dragen naar organisaties en de Europese Commissie (EC). Hiervoor is nodig:
+1.  **Beleidskoers en visie**  
+    De overheid dient een **duidelijke beleidskoers en visie** op standaardisatie te ontwikkelen, om de Nederlandse belangen te versterken. Het is nodig deze uit te dragen naar organisaties en de Europese Commissie (EC). Hiervoor is nodig:
 
 - **Een duidelijk beeld te hebben** van de Nederlandse prioriteiten en van de positie van de Nederlandse overheid in deelname aan standaardisatie-activiteiten. 
 
@@ -93,8 +93,8 @@ Verder zijn er 34 organisaties bevraagd over de drie onderzoeksvragen en hun bij
 
 - Het faciliteren van kennisdeling over beproefde werkwijzen (**best practices**) omtrent deelname aan standaardisatie-activiteiten ter versterking van de Nederlandse standaardisatie-initiatieven.
 
-8.  **Stimuleren** van de **toegankelijkheid van standaardisatie(-activiteiten)  
-    **Tenslotte wordt aanbevolen de drempels aan te pakken die volgens geïnterviewden de deelname aan standaardisatie belemmeren. Daarbij wordt gedacht aan:
+8.  **Stimuleren** van de **toegankelijkheid van standaardisatie(-activiteiten)**  
+    Tenslotte wordt aanbevolen de drempels aan te pakken die volgens geïnterviewden de deelname aan standaardisatie belemmeren. Daarbij wordt gedacht aan:
 
 - Het bieden van **financiële ondersteuning** en stimulans om het **mkb** te helpen bij deelname aan standaardisatie-activiteiten (bijvoorbeeld bij energietechniek: energieopslag en laadsystemen). Daarbij moet het financiële instrumentarium ingericht zijn op een lange termijnbenadering.
 
