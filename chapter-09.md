@@ -605,3 +605,7 @@ De 34 interviews duurden tussen de 50 en 70 minuten, werden door twee interviewe
 ### Samenvattingen interviews, per categorie 
 
 Op te vragen bij de onderzoekers.
+
+[^1]: Overig: stichting, coöperatie met publieke taken, brancheorganisatie
+
+[^2]: Geen: geen actieve / passieve rol in een SDO. Geïnterviewden hebben een coördinerende rol of beleidsmatige rol.

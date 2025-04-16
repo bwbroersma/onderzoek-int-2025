@@ -41,7 +41,7 @@ De interviews, duurden gemiddeld 60 minuten en hebben tussen mei en december 202
 
 Tabel 1 toont het overzicht van het aantal geïnterviewde personen per SDO deelname. De SDO waaraan de geïnterviewde het meest bijdraagt, is opgenomen.
 
-| SDO         | Micro | Mkb   | Groot  | Overig\*\* | Overheid | Europese Commissie | Eindtotaal |
+| SDO         | Micro | Mkb   | Groot  | Overig[^1] | Overheid | Europese Commissie | Eindtotaal |
 |-------------|-------|-------|--------|------------|----------|--------------------|------------|
 | CEN         |       |       | 1      |            | 1        |                    | 2          |
 | CEN/CENELEC |       |       | 3      |            |          | 1                  | 4          |
@@ -49,7 +49,7 @@ Tabel 1 toont het overzicht van het aantal geïnterviewde personen per SDO deeln
 | Oasis       | 2     |       |        |            |          |                    | 2          |
 | W3C         |       |       |        | 1          | 1        |                    | 2          |
 | ETSI        |       |       |        |            | 2        | 1                  | 3          |
-| Geen\*      |       |       | 2      | 1          |          | 2                  | 5          |
+| Geen[^2]    |       |       | 2      | 1          |          | 2                  | 5          |
 | IETF        |       |       |        | 1          | 1        |                    | 2          |
 | ISO/IEC     |       | 1     |        |            | 1        |                    | 1          |
 | 3GPP        |       |       | 1      |            |          |                    | 1          |
@@ -57,8 +57,4 @@ Tabel 1 toont het overzicht van het aantal geïnterviewde personen per SDO deeln
 | IEC         |       | 1     |        |            |          |                    | 1          |
 | GS1         |       |       | 1      |            |          |                    | 1          |
 | Totaal      | **2** | **2** | **15** | **3**      | **7**    | **4**              | **34**     |
-
-\*Geen: geen actieve / passieve rol in een SDO. Geïnterviewden hebben een coördinerende rol of beleidsmatige rol.
-
-\*\*Overig: stichting, coöperatie met publieke taken, brancheorganisatie
 
