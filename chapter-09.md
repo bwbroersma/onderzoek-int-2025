@@ -243,7 +243,7 @@ CENELEC</td>
 
 Legenda: OW = openbare website, LP = ledenportaal, API = application programmable interface LM V = Lidmaatschap vereist.
 
-## B. Verantwoording interviews
+## Verantwoording interviews
 
 ### Overzicht geïnterviewden
 
